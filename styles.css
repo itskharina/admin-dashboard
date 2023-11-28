@@ -109,12 +109,12 @@ label[for='search-box'] {
     grid-column: 2;
 }
 
-img[src='magnify.svg'] {
+img[src='/pics/magnify.svg'] {
     width: 30px;
     grid-column: 2;
 }
 
-img[src='bell.svg'], .card-icon, .aside-icon {
+img[src='/pics/bell.svg'], .card-icon, .aside-icon {
     width: 30px;
 }
 
